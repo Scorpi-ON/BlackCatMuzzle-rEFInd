@@ -1,8 +1,6 @@
 # BlackCatMuzzle
 
-## Dark theme for rEFInd with a black cat muzzle on a background
-
-[rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
+## [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
 
 ### Usage
 
