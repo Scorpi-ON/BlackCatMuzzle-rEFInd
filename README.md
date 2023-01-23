@@ -21,10 +21,10 @@
    ```
     
 ### Screenshots
-![Screenshot with default banner and 2 OSes displayed](screenshots/screenshot_001.bmp "screenshot")
+![Screenshot with default banner and 2 OSes displayed](screenshots/screenshot_001.jpg "screenshot")
 
-![Screenshot with default banner and multiple boot entries from flash drive displayed](screenshots/screenshot_002.bmp "screenshot")
+![Screenshot with default banner and multiple boot entries from flash drive displayed](screenshots/screenshot_002.jpg "screenshot")
 
-![Screenshot with fully black banner and 2 OSes displayed](screenshots/screenshot_003.bmp "screenshot")
+![Screenshot with fully black banner and 2 OSes displayed](screenshots/screenshot_003.jpg "screenshot")
 
-![Screenshot with fully black banner and multiple boot entries from flash drive displayed](screenshots/screenshot_004.bmp "screenshot")
+![Screenshot with fully black banner and multiple boot entries from flash drive displayed](screenshots/screenshot_004.jpg "screenshot")
