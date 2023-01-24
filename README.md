@@ -16,16 +16,16 @@ BlackCatMuzzle combines some parts of other themes:
 
 2. Create a folder called `themes` inside it, if it doesn't already exist.
 
-3. Clone this repository and copy the `BlackCatMuzzle` folder into `themes` directory.
-
-4. To enable the theme add the following line at the end of `refind.conf`:
-   ```
-   include themes/BlackCatMuzzle/theme.conf
-   ```
-
-5. You can change the default banner with cat to the fully black one by changing the appropriate line in `theme.conf` like this:
+3. Clone this repository, [customize](https://www.rodsbooks.com/refind/configfile.html) `BlackCatMuzzle/theme.conf` if needed. E.g. you can change the default banner with cat to the fully black one by changing the appropriate line in `theme.conf` like this:
    ```
    banner themes/BlackCatMuzzle/bg/background_empty.png
+   ```
+
+4. Copy the `BlackCatMuzzle` folder into `themes` directory.
+
+5. Add the following line at the end of `refind.conf`:
+   ```
+   include themes/BlackCatMuzzle/theme.conf
    ```
     
 ### Screenshots
