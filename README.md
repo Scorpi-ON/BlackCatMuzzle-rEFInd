@@ -2,6 +2,14 @@
 
 ## [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
 
+### About
+BlackCatMuzzle combines some parts of other themes:
+- [LightAir / darkmini](https://github.com/LightAir/darkmini) — most of OS icons
+- [samuelmeuli / refind-theme-dark](https://github.com/samuelmeuli/refind-theme-dark) — small selection
+- [Temporarily not found theme] — icons of shutdown, reboot, firmware etc
+- [Temporarily not found theme] — badges
+
+
 ### Usage
 
 1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind` though it will depend on where you mount your ESP and where rEFInd is installed.
