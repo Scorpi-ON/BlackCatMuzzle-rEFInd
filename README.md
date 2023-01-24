@@ -1,15 +1,13 @@
 # BlackCatMuzzle-rEFInd
 
 ## [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
+    
+### Screenshots
+![Screenshot with default banner and 2 internal boot entries displayed](screenshots/screenshot_001.jpg "screenshot")
 
-### Sources
-BlackCatMuzzle combines some parts of other themes:
-- [LightAir / darkmini](https://github.com/LightAir/darkmini) — most of icons
-- [samuelmeuli / refind-theme-dark](https://github.com/samuelmeuli/refind-theme-dark) — small selection
-- [quantrancse / rEFInd-minimal-themes](https://github.com/quantrancse/rEFInd-minimal-themes) — KDE Plasma-looking icons of shutdown, reboot, firmware etc
+![Screenshot with fully black banner and multiple boot entries from hard and flash drives displayed](screenshots/screenshot_002.jpg "screenshot")
 
 ### Usage
-
 1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind` though it will depend on where you mount your ESP and where rEFInd is installed.
 
 2. Create a folder called `themes` inside it, if it doesn't already exist.
@@ -25,12 +23,10 @@ BlackCatMuzzle combines some parts of other themes:
    ```
    include themes/BlackCatMuzzle/theme.conf
    ```
-    
-### Screenshots
-![Screenshot with default banner and 2 OSes displayed](screenshots/screenshot_001.jpg "screenshot")
 
-![Screenshot with default banner and multiple boot entries from flash drive displayed](screenshots/screenshot_002.jpg "screenshot")
+### Attribution
+BlackCatMuzzle combines some parts of other themes:
+- [LightAir / darkmini](https://github.com/LightAir/darkmini) — most of icons
+- [samuelmeuli / refind-theme-dark](https://github.com/samuelmeuli/refind-theme-dark) — small selection
+- [quantrancse / rEFInd-minimal-themes](https://github.com/quantrancse/rEFInd-minimal-themes) — KDE Plasma-looking icons of shutdown, reboot, firmware etc
 
-![Screenshot with fully black banner and 2 OSes displayed](screenshots/screenshot_003.jpg "screenshot")
-
-![Screenshot with fully black banner and multiple boot entries from flash drive displayed](screenshots/screenshot_004.jpg "screenshot")
