@@ -2,7 +2,7 @@
 
 ## [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
 
-### About
+### Sources
 BlackCatMuzzle combines some parts of other themes:
 - [LightAir / darkmini](https://github.com/LightAir/darkmini) — most of OS icons
 - [samuelmeuli / refind-theme-dark](https://github.com/samuelmeuli/refind-theme-dark) — small selection
