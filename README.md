@@ -6,7 +6,7 @@
 BlackCatMuzzle combines some parts of other themes:
 - [LightAir / darkmini](https://github.com/LightAir/darkmini) — most of icons
 - [samuelmeuli / refind-theme-dark](https://github.com/samuelmeuli/refind-theme-dark) — small selection
-- [Temporarily not found theme] — KDE Plasma-looking icons of shutdown, reboot, firmware etc
+- [quantrancse / rEFInd-minimal-themes](https://github.com/quantrancse/rEFInd-minimal-themes) — KDE Plasma-looking icons of shutdown, reboot, firmware etc
 
 ### Usage
 
