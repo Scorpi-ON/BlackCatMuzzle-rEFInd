@@ -29,4 +29,5 @@ BlackCatMuzzle combines some parts of other themes:
 - [LightAir / darkmini](https://github.com/LightAir/darkmini) — most of icons
 - [samuelmeuli / refind-theme-dark](https://github.com/samuelmeuli/refind-theme-dark) — big selection
 - [quantrancse / rEFInd-minimal-themes](https://github.com/quantrancse/rEFInd-minimal-themes) — icons of shutdown, reboot, firmware etc
+- [keeferrourke / capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors) — mouse cursor
 
