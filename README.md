@@ -1,4 +1,4 @@
-# BlackCatMuzzle
+# BlackCatMuzzle-rEFInd
 
 ## [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
 
@@ -8,7 +8,7 @@
 
 2. Create a folder called `themes` inside it, if it doesn't already exist.
 
-3. Clone this repository into the `themes` directory. To reduce size of the folder delete `screenshots`, `source`, `.git`, `LICENSE` and `README` (if not needed).
+3. Clone this repository and copy the `BlackCatMuzzle` folder into `themes` directory.
 
 4. To enable the theme add the following line at the end of `refind.conf`:
    ```
