@@ -3,9 +3,8 @@
 ## [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI-based systems. This is a clean, dark and cute theme for it.
     
 ### Screenshots
-![Screenshot with default banner and 2 internal boot entries displayed](screenshots/screenshot_001.jpg "screenshot")
-
-![Screenshot with fully black banner and multiple boot entries from hard and flash drives displayed](screenshots/screenshot_002.jpg "screenshot")
+![Screenshot with default banner and 2 internal boot entries displayed](https://github.com/user-attachments/assets/24ef9849-357f-401d-a71a-f39b65e4de11)
+![Screenshot with fully black banner and multiple boot entries from hard and flash drives displayed](https://github.com/user-attachments/assets/fc602494-f927-47d6-a13e-2f1f59adbe31)
 
 ### Usage
 1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind` though it will depend on where you mount your ESP and where rEFInd is installed.
